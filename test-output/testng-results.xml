@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-06-24T17:57:15 IST" name="Default suite" finished-at="2022-06-24T17:57:37 IST" duration-ms="21819">
+  <suite name="Default suite" duration-ms="9696" started-at="2022-06-29T10:57:10Z" finished-at="2022-06-29T10:57:19Z">
     <groups>
     </groups>
-    <test started-at="2022-06-24T17:57:15 IST" name="Default test" finished-at="2022-06-24T17:57:37 IST" duration-ms="21819">
+    <test name="Default test" duration-ms="9696" started-at="2022-06-29T10:57:10Z" finished-at="2022-06-29T10:57:19Z">
       <class name="firstclass">
-        <test-method is-config="true" signature="launch()[pri:0, instance:firstclass@5acf93bb]" started-at="2022-06-24T17:57:15 IST" name="launch" finished-at="2022-06-24T17:57:37 IST" duration-ms="21631" status="PASS">
+        <test-method status="PASS" signature="launch()[pri:0, instance:firstclass@29ca901e]" name="launch" is-config="true" duration-ms="4644" started-at="2022-06-29T10:57:10Z" finished-at="2022-06-29T10:57:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launch -->
-        <test-method signature="getScreenshots()[pri:0, instance:firstclass@5acf93bb]" started-at="2022-06-24T17:57:37 IST" name="getScreenshots" finished-at="2022-06-24T17:57:37 IST" duration-ms="30" status="PASS">
+        <test-method status="PASS" signature="getScreenshots()[pri:0, instance:firstclass@29ca901e]" name="getScreenshots" duration-ms="5033" started-at="2022-06-29T10:57:14Z" finished-at="2022-06-29T10:57:19Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getScreenshots -->
